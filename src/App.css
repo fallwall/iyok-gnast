@@ -1,17 +1,49 @@
+/* html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+} */
 
 /* nav */
 /* work */
-.work-masonry { /* Masonry container */
-  column-count: 4;
-  column-gap: 1em;
+/* work-mansory */
+.masonry-container{
+	width: 80%;
+	margin: auto;
+	margin-top: 10px;
+  border: 1px solid rgba(0,0,0,.1);
+}
+  
+.masonry-container p{
+  text-align: center;
+  padding: 4px;
+  font-family: monospace;
+  background: #222;
+  color: #efefef;
+}
+.masonry{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-content: stretch;
+	width: 100%;
+	margin: auto;
+}
+.column{
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-content: stretch;
+	flex-grow: 1;
 }
 
-.work-item { /* Masonry bricks or child elements */
-  background-color: #eee;
-  display: inline-block;
-  margin: 0 0 1em;
-  width: 100%;
+.tile{
+  margin: 1px;
 }
-/* about */
-/* contact */
-/* inspiration */
+.tile img {
+		width: 100%;
+}
