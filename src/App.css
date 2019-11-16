@@ -1,21 +1,28 @@
-/* html {
-  box-sizing: border-box;
-}
-
-*,
-*:before,
-*:after {
-  box-sizing: inherit;
-} */
 
 /* nav */
+.nav-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 2%;
+}
+
+.nav-selection {
+  display: flex;
+  flex-direction: row;
+}
+
+.nav-selection a {
+  margin: 0 15%;
+}
+
 /* work */
 /* work-mansory */
 .masonry-container{
 	width: 80%;
 	margin: auto;
 	margin-top: 10px;
-  border: 1px solid rgba(0,0,0,.1);
+  /* border: 1px solid rgba(0,0,0,.1); */
 }
   
 .masonry-container p{
