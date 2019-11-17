@@ -12,7 +12,7 @@ class App extends React.Component {
     return (
       <div className="App">
         <Nav />
-        <Route path="/" render={()=> <Work />} />
+        <Route exact path="/" render={()=> <Work />} />
         <Route path="/about" render={()=> <About />} />
         <Route path="/contact" render={()=> <Contact />} />
         <Route path="/inspiration" render={()=> <Inspiration />} />

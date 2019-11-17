@@ -1,3 +1,6 @@
+a {
+  color: black;
+}
 
 /* nav */
 .nav-container {
@@ -17,22 +20,23 @@
 }
 
 /* work */
+
 /* work-mansory */
-.masonry-container{
-	width: 80%;
+.masonry-container {
+	width: 100%;
 	margin: auto;
 	margin-top: 10px;
   /* border: 1px solid rgba(0,0,0,.1); */
 }
   
-.masonry-container p{
+.masonry-container p {
   text-align: center;
   padding: 4px;
   font-family: monospace;
   background: #222;
   color: #efefef;
 }
-.masonry{
+.masonry {
 	display: flex;
 	flex-direction: row;
 	justify-content: center;
@@ -40,7 +44,7 @@
 	width: 100%;
 	margin: auto;
 }
-.column{
+.column {
 	display: flex;
 	flex-direction: column;
 	justify-content: flex-start;
@@ -48,9 +52,11 @@
 	flex-grow: 1;
 }
 
-.tile{
+.tile {
   margin: 1px;
 }
 .tile img {
-		width: 100%;
+	width: 100%;
 }
+
+/* about */
