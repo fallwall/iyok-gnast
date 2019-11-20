@@ -1,20 +1,28 @@
 {
   "description": [
-     "Plus-Size Market, Adobe Illustrator, Adobe Photoshop, Adobe InDesign, Keynote, Optitex, Flex PLM, Web PDM, Microsoft Office, Trend Forecasting, CAD, Hand & Computer Illustration, Product Development, Mood Boards, Lab Dip & Strike-off Approvals, Garment Specifications, Fabric Construction, Technical Packages, Sewing, Patternmaking, Draping, MAC & PC System, Chinese",
+    "Plus-Size Market, Adobe Illustrator, Adobe Photoshop, Adobe InDesign, Keynote, Optitex, Flex PLM, Web PDM, Microsoft Office, Trend Forecasting, CAD, Hand & Computer Illustration, Product Development, Mood Boards, Lab Dip & Strike-off Approvals, Garment Specifications, Fabric Construction, Technical Packages, Sewing, Patternmaking, Draping, MAC & PC System, Chinese",
   ],
   "education": [
     {
-    "year": "2008-2012",
-    "school": "Fashion Institude of Technology",
-    "degree": "Bachelor's Degree, Fashion/Apparel Design"
+      "year": "2008-2012",
+      "school": "Fashion Institude of Technology",
+      "degree": "Bachelor's Degree, Fashion/Apparel Design"
     }
   ],
-  "experience": 
-  [
+  "experience": [
     {
-    "year": "2008-2012",
-    "school": "Fashion Institude of Technology",
-    "degree": "Bachelor's Degree, Fashion/Apparel Design"
+      "year": "2008-2012",
+      "school": "Fashion Institude of Technology",
+      "degree": "Bachelor's Degree, Fashion/Apparel Design"
     }
+  ],
+  "bio": [
+    "
+    Pellentesque ac pulvinar ante. Cras porttitor lorem ex, vitae iaculis ligula vehicula sed. Vivamus mollis molestie elit, eu mattis lacus sollicitudin at. Nam id velit est. Quisque id nulla et purus vestibulum ornare. Morbi gravida ipsum felis, a scelerisque velit varius a. Integer ut ipsum tortor. Donec in sapien nec nibh suscipit euismod.
+
+Duis suscipit vulputate hendrerit. Vestibulum purus lorem, tristique quis commodo ut, tincidunt consequat sem. Aliquam at quam ac magna lacinia faucibus. In nec convallis tortor. Sed ut placerat felis. Nullam vulputate aliquam diam vehicula finibus. Fusce egestas gravida venenatis. Quisque faucibus sapien enim, in elementum elit facilisis eget. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia.
+
+Fusce consectetur quis libero ac tincidunt. Donec efficitur nulla non quam ullamcorper volutpat. Phasellus semper gravida libero et laoreet. Aenean viverra nulla eget risus tempor consequat. Phasellus auctor nibh nec felis condimentum placerat. Quisque consectetur, lectus sit amet malesuada luctus, arcu massa vestibulum mi, ac rhoncus ligula nisi a ante. Donec lacinia massa non vulputate consectetur.
+    "
   ]
 }
